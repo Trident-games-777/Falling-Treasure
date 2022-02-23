@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Falling Treasure</string>
+    <string name="facebook_app_id">310810324438916</string>
+
+    <string name="secure_get_parametr">CnerYqbCY4</string>
+    <string name="secure_key">HlgXEVMf5Q</string>
+    <string name="dev_tmz_key">yPwJJzryZR</string>
+    <string name="gadid_key">87IwYnFFJP</string>
+    <string name="deeplink_key">87mEy3gAcr</string>
+    <string name="source_key">VOlA3IGdAq</string>
+    <string name="af_id_key">938UnoGDks</string>
+    <string name="adset_id_key">XEKI3hRsyk</string>
+    <string name="campaign_id_key">LVtnBdavdN</string>
+    <string name="app_campaign_key">IAM6Ba6kLX</string>
+    <string name="adset_key">TWQn1kyfUN</string>
+    <string name="adgroup_key">gsK9yMXLg0</string>
+    <string name="orig_cost_key">c39tb2Cy82</string>
+    <string name="af_siteid_key">8d4451qDjP</string>
+    <string name="total_coins">Total coins:</string>
+</resources>
